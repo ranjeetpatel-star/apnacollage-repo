@@ -1,3 +1,4 @@
 # apnacollage-repo
-for my learning about github <br>
-Author ranjeet patel
+for my learning about github 
+<br>
+Author ranjeet (Dollar)
